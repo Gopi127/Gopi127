@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi+I'm+Gopi+👋;Java+Backend+Developer;Actively+Looking+for+Opportunities;Skills: Spring+Boot+%7C+Microservices" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi+I'm+Gopi+👋;Java+Backend+Developer;Actively+Looking+for+Opportunities;Spring+Boot+%7C+Microservices" />
 </p>
 
 Hi 👋, I'm Gopi
