@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi+I'm+Gopi+👋;Java+Backend+Developer;Actively+Looking+for+Opportunities;Spring+Boot+%7C+Microservices" />
-</p>
+</p> -->
 
 Hi 👋, I'm Gopi
 
